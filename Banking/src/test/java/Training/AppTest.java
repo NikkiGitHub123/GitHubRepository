@@ -34,6 +34,7 @@ public void Cookiesclose()
 public void Reportadding()
 {
 	System.out.println("This block executes after each Test");
+	System.out.println("Added new line of code");
 }
 
 @Test
