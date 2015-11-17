@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-MSLQ2QG" name="packTwo.Annotations" tests="13" failures="0" timestamp="21 Oct 2015 20:37:54 GMT" time="0.068" errors="0">
+  <testcase name="OpeningBrowser" time="0.007" classname="packTwo.DependenyAnnot"/>
+  <testcase name="FlightBooking" time="0.0" classname="packTwo.DependenyAnnot"/>
+  <testcase name="OpeningBrowser" time="0.001" classname="testngFiles.DependenyAnnot"/>
+  <testcase name="FlightBooking" time="0.002" classname="testngFiles.DependenyAnnot"/>
+  <testcase name="FlightBooking" time="0.001" classname="packTwo.Annotations"/>
+  <testcase name="FlightCancel" time="0.001" classname="packTwo.Annotations"/>
+  <testcase name="OpeningBrowser" time="0.001" classname="packTwo.Annotations"/>
+  <testcase name="Timerelated" time="0.009" classname="packTwo.DependenyAnnot"/>
+  <testcase name="Timerelated" time="0.002" classname="testngFiles.DependenyAnnot"/>
+  <testcase name="FlightBooking" time="0.002" classname="testngFiles.Annotations">
+    <skipped/>
+  </testcase>
+  <testcase name="OpeningBrowser" time="0.001" classname="testngFiles.Annotations"/>
+  <testcase name="software" time="0.001" classname="testngFiles.Annot2"/>
+  <testcase name="software" time="0.001" classname="packTwo.Annot2"/>
+</testsuite>
